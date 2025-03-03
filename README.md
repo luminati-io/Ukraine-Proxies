@@ -39,7 +39,7 @@ Experience seamless scraping with Bright Data's [Ukraine proxies](https://bright
 - **3G/4G/5G mobile IPs**
 - **24/7 global support**
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/locations/ca) 
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/locations/ua) 
 
 ## Getting Started with Bright Data's Ukraine proxies
 1. **Start Free Trial**: No credit card required.
